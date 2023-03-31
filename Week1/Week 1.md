@@ -4,7 +4,7 @@
 
 ## Definition Statement
 
-##### I want to build an application that helps the BI-State Disc Golf Group organize and promotes the club 
+##### I want to build an application that the BI-State Disc Golf Group can us to help organize and promote the club. 
  
 ## Definition of Audience : 
 
