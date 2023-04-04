@@ -2,6 +2,16 @@
 
 ### 	[Google Docs](https://docs.google.com/document/d/1DhvahLdfo0t3j5h2f_25M7bgdYaItvJFDqbhf_nR3-0/edit) has all of the below
 
+
+## Elevator Pitch:
+
+### “Hello I’m Josh Fraley. I chose Savvy Coders to jump start my career in software development. My capstone project promotes and helps the Bi-state disc golf group, by becoming more organized and appealing.
+
+## Introductory Speech:
+
+### I chose to help the club because it is something I am involved with and know a lot about, as I am a current board member of the club. This application shows all the events, projects, pictures, and information for the club. By having everything in one place it makes it easy for anyone, in or outside of the club, to find out what is happening with the club.
+
+
 ## Definition Statement
 
 ##### I want to build an application that the BI-State Disc Golf Group can use to help organize and promote the club. 
@@ -71,17 +81,17 @@
 ## Create and provide link to SWOT Analysis
 
 
-#### Strengths:
+### Strengths:
 ##### Simplicity
 ##### Neutral Colors
 	
-#### Weaknesses:
+### Weaknesses:
 ##### Simplicity
 ##### Number of pages
 	
-#### Opportunities:
+### Opportunities:
 ##### Creates an advantage for the club with other clubs in the area.
 ##### Positive club member feedback
 	
-#### Threats:
+### Threats:
 ##### More in the public eye
