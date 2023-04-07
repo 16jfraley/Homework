@@ -20,18 +20,18 @@ console.log( `Welcome to Savvy's arraay of Pizza. Our toppings are:` + " " + lis
 
 
 //getting the order
-let order = []
+
 function getPizaOrder (size,crust, ...toppings) {
 console.log(`One ${size} ${crust} crust pizza with ${toppings} coming up`)
-order.push(size,crust,toppings)
+return order = [size,crust,toppings]
 };
 
 
 //preparing the pizza
-let pizza={};
+
 function preparePizza (arr){
   console.log(`One ${arr[0]} ${arr[1]} crust pizza with ${arr[2]}, NOW COOKING!!`);
- pizza={size:arr[0],crust:arr[1],toppings:arr[2]};
+ return pizza={size:arr[0],crust:arr[1],toppings:arr[2]};
 };
 
 //The pizza is ready
