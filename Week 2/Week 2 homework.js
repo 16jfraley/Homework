@@ -1,7 +1,7 @@
 let pizzaPlace = "Savvy's array of Pizza";
 let numOfToppings= 15;
 
-console.log(pizzaPlace + " " +typeof(pizzaPlace));
+console.log(pizzaPlace + " " + typeof(pizzaPlace));
 console.log(numOfToppings + " " + typeof(numOfToppings));
 
 console.log(`Hello, Welcome to ${pizzaPlace}, we have ${numOfToppings} toping for you to choose from!`);
