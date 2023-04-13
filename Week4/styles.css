@@ -1,0 +1,42 @@
+*{
+  font: 1em sans-serif;
+}
+.head{
+  width: 100%;
+  align-items: center;
+
+}
+#savvy{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.team{
+  width: 100%;
+  text-align: center;
+  padding: 30px;
+  background-color: gray;
+  font-size: 40px;
+  margin-bottom: 0%;
+}
+.content{
+  font-size: 20PX;
+  padding: 5px;
+  margin-top: 0%;
+  width: 100%;
+  background-color: lightblue;
+}
+.jira:hover{
+  background-color: rgb(85, 80, 80);
+}
+.jira{
+  border-radius: 5px;
+  text-align: center;
+  color: white;
+  background-color: grey;
+  width: 150px;
+}
+a:visited{
+  color: white;
+}
